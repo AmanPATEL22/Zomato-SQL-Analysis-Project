@@ -1,1 +1,1 @@
-# Zomato-SQL-Analysis-Project
+# SWIGGY-SQL-Analysis-Project
